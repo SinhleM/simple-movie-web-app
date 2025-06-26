@@ -2,6 +2,7 @@ import React , {useState, useEffect} from "react";
 //c7fcce4d
 import Component0 from './assets/Components/Component0.jsx';
 import SearchIcon from './assets/Components/SearchIcon.jsx';
+import Homepage from './assets/Components/Homepage.jsx';
 
 const API_URL = "http://www.omdbapi.com/?apikey=c7fcce4d"
 
